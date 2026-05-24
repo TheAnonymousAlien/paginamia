@@ -1,2 +1,12 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+open cmd
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>¡Hola</title>
+  </head>
+  <body>
+    <h1>¡Hola Mundo!</h1>
+    <p>Este es un párrafo básico.</p>
+    <a href="youtube.com">Enlace a ejemplo</a>
+  </body>
+</html>
