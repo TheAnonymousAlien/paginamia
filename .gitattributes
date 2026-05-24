@@ -3,24 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <title>Mi Rincón Web</title>
+    
+    <!-- AQUÍ SE AÑADE EL DISEÑO -->
+    <style>
+        body {
+            background-color: #f0f4f8; /* Color de fondo gris azulado suave */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Tipografía moderna */
+            text-align: center; /* Centra todo el texto */
+            padding: 50px;
+        }
+        h1 {
+            color: #2c3e50; /* Color azul oscuro para el título */
+        }
+        p {
+            color: #555555; /* Gris oscuro para el párrafo */
+            font-size: 18px;
+        }
+    </style>
+    
 </head>
 <body>
     <h1>¡Bienvenido a mi primera página web pública!</h1>
     <p>Este es mi primer sitio oficial subido a GitHub Pages.</p>
 </body>
 </html>
-<style>
-    body {
-        background-color: #f0f4f8; /* Un color de fondo gris azulado suave */
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Una tipografía más moderna */
-        text-align: center; /* Centra todo el texto de la pantalla */
-        padding: 50px;
-    }
-    h1 {
-        color: #2c3e50; /* Un color azul oscuro elegante para el título */
-    }
-    p {
-        color: #555555; /* Un gris oscuro suave para que sea cómodo de leer */
-        font-size: 18px;
-    }
-</style>
