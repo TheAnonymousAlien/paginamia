@@ -7,6 +7,7 @@
 <body>
     <h1>¡Bienvenido a mi primera página web pública!</h1>
     <p>Este es mi primer sitio oficial subido a GitHub Pages.</p>
+    <p>Todo esto lo he programado yo a código.</p>
     <p>Soy The_Alien</p>
     <p>sigueme en pinterest https://es.pinterest.com/The_Alien01/_profile/</p>
 </body>
